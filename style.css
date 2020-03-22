@@ -1,0 +1,13 @@
+h1, h2 {
+  font-family: Lato;
+}
+* {
+  box-sizing: border-box;
+}
+
+#app {
+  height: 800px;
+  width: 400px;
+  margin: 0 auto;
+  display: block;
+}
